@@ -10,9 +10,10 @@
  
  printf("Integer value: %d\n", i);
     printf("Float value: %f\n", f);
-    printf("Double value: %.f\n", d);
+    printf("Double value: %f\n", d);
     printf("Character: %c\n", c);
 
        return 0;
   
+
   }
